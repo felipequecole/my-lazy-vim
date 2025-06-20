@@ -5,7 +5,6 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ## How to install
 
-```
 ```bash
 git clone https://github.com/felipequecole/my-lazy-vim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
