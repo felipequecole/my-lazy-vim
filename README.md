@@ -19,7 +19,5 @@ git clone https://github.com/felipequecole/my-lazy-vim.git "${XDG_CONFIG_HOME:-$
 ## Customizations
 
 - Disables lazy on gzip/zip related plugins to enable `gd` on zipped dependencies code
-- Remaps `d` to send to null buffer 
+- Remaps `d` to send to null buffer
 
-```
-```
